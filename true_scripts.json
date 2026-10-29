@@ -1,0 +1,140 @@
+[
+ {
+  "pid": 9127,
+  "name": "Script_Act_01",
+  "markers": 17593,
+  "size": 6526528
+ },
+ {
+  "pid": 9128,
+  "name": "Script_Act_02",
+  "markers": 6854,
+  "size": 2633472
+ },
+ {
+  "pid": 9129,
+  "name": "ShowPauseUI_2",
+  "markers": 3,
+  "size": 744
+ },
+ {
+  "pid": 9130,
+  "name": "Platform_Buttons",
+  "markers": 31,
+  "size": 7696
+ },
+ {
+  "pid": 9131,
+  "name": "Script_Act_01a",
+  "markers": 1637,
+  "size": 573292
+ },
+ {
+  "pid": 9132,
+  "name": "Script_Act_02a",
+  "markers": 3290,
+  "size": 1283792
+ },
+ {
+  "pid": 9133,
+  "name": "Script_Act_02b",
+  "markers": 3563,
+  "size": 1349700
+ },
+ {
+  "pid": 9134,
+  "name": "Script_Act_00",
+  "markers": 1504,
+  "size": 518480
+ },
+ {
+  "pid": 9135,
+  "name": "Script_Act_01d",
+  "markers": 3351,
+  "size": 1301840
+ },
+ {
+  "pid": 9136,
+  "name": "Script_Act_01b",
+  "markers": 2330,
+  "size": 811072
+ },
+ {
+  "pid": 9137,
+  "name": "Credits",
+  "markers": 24,
+  "size": 7684
+ },
+ {
+  "pid": 9138,
+  "name": "MainScript",
+  "markers": 31367,
+  "size": 11637748
+ },
+ {
+  "pid": 9139,
+  "name": "Script_Act_Special",
+  "markers": 265,
+  "size": 83148
+ },
+ {
+  "pid": 9140,
+  "name": "Script_Start",
+  "markers": 70,
+  "size": 17024
+ },
+ {
+  "pid": 9141,
+  "name": "Script_Act_00b",
+  "markers": 526,
+  "size": 175016
+ },
+ {
+  "pid": 9142,
+  "name": "Script_Act_03a",
+  "markers": 5386,
+  "size": 2009064
+ },
+ {
+  "pid": 9143,
+  "name": "TitleScript",
+  "markers": 21,
+  "size": 6812
+ },
+ {
+  "pid": 9144,
+  "name": "Script_Act_00a",
+  "markers": 980,
+  "size": 344164
+ },
+ {
+  "pid": 9145,
+  "name": "Script_Act_01e",
+  "markers": 3263,
+  "size": 1278724
+ },
+ {
+  "pid": 9146,
+  "name": "Script_Act_01c",
+  "markers": 7030,
+  "size": 2565200
+ },
+ {
+  "pid": 9147,
+  "name": "Script_Act_03",
+  "markers": 5386,
+  "size": 2009064
+ },
+ {
+  "pid": 9148,
+  "name": "HidePauseMenu",
+  "markers": 4,
+  "size": 836
+ },
+ {
+  "pid": 9149,
+  "name": "Script_Act_Endings",
+  "markers": 2027,
+  "size": 746256
+ }
+]

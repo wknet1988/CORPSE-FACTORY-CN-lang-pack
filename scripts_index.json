@@ -1,0 +1,122 @@
+{
+ "Script_Act_01": {
+  "path_id": 9127,
+  "bytes": 6526528,
+  "linecount": 1
+ },
+ "Script_Act_02": {
+  "path_id": 9128,
+  "bytes": 2633472,
+  "linecount": 1
+ },
+ "ShowPauseUI_2": {
+  "path_id": 9129,
+  "bytes": 744,
+  "linecount": 2
+ },
+ "Platform_Buttons": {
+  "path_id": 9130,
+  "bytes": 7696,
+  "linecount": 1
+ },
+ "Script_Act_01a": {
+  "path_id": 9131,
+  "bytes": 573292,
+  "linecount": 1
+ },
+ "Script_Act_02a": {
+  "path_id": 9132,
+  "bytes": 1283792,
+  "linecount": 1
+ },
+ "Script_Act_02b": {
+  "path_id": 9133,
+  "bytes": 1349700,
+  "linecount": 1
+ },
+ "Script_Act_00": {
+  "path_id": 9134,
+  "bytes": 518480,
+  "linecount": 1
+ },
+ "Script_Act_01d": {
+  "path_id": 9135,
+  "bytes": 1301840,
+  "linecount": 1
+ },
+ "Script_Act_01b": {
+  "path_id": 9136,
+  "bytes": 811072,
+  "linecount": 1
+ },
+ "Credits": {
+  "path_id": 9137,
+  "bytes": 7684,
+  "linecount": 1
+ },
+ "MainScript": {
+  "path_id": 9138,
+  "bytes": 11637748,
+  "linecount": 1
+ },
+ "Script_Act_Special": {
+  "path_id": 9139,
+  "bytes": 83148,
+  "linecount": 1
+ },
+ "Script_Start": {
+  "path_id": 9140,
+  "bytes": 17024,
+  "linecount": 1
+ },
+ "Script_Act_00b": {
+  "path_id": 9141,
+  "bytes": 175016,
+  "linecount": 1
+ },
+ "Script_Act_03a": {
+  "path_id": 9142,
+  "bytes": 2009064,
+  "linecount": 1
+ },
+ "TitleScript": {
+  "path_id": 9143,
+  "bytes": 6812,
+  "linecount": 1
+ },
+ "Script_Act_00a": {
+  "path_id": 9144,
+  "bytes": 344164,
+  "linecount": 1
+ },
+ "Script_Act_01e": {
+  "path_id": 9145,
+  "bytes": 1278724,
+  "linecount": 1
+ },
+ "Script_Act_01c": {
+  "path_id": 9146,
+  "bytes": 2565200,
+  "linecount": 1
+ },
+ "Script_Act_03": {
+  "path_id": 9147,
+  "bytes": 2009064,
+  "linecount": 1
+ },
+ "HidePauseMenu": {
+  "path_id": 9148,
+  "bytes": 836,
+  "linecount": 1
+ },
+ "Script_Act_Endings": {
+  "path_id": 9149,
+  "bytes": 746256,
+  "linecount": 1
+ },
+ "InputConfiguration": {
+  "path_id": 9162,
+  "bytes": 804,
+  "linecount": 1
+ }
+}

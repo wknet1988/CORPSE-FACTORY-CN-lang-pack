@@ -1,0 +1,3248 @@
+{
+ "rows": [
+  {
+   "pid": 9208,
+   "size": 244,
+   "strs": [
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 9209,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9404,
+   "size": 264,
+   "strs": [
+    "{",
+    "yyyy-MM-dd HH:mm",
+    "File {N} - {D}",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "{",
+    "yyyy-MM-dd HH:mm",
+    "File {N} - {D}"
+   ]
+  },
+  {
+   "pid": 9502,
+   "size": 232,
+   "strs": [
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 9522,
+   "size": 232,
+   "strs": [
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 9564,
+   "size": 232,
+   "strs": [
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 9576,
+   "size": 180,
+   "strs": [
+    "O",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "O"
+   ]
+  },
+  {
+   "pid": 9595,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9596,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9597,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 9602,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Settings",
+    "SETTINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SETTINGS"
+   ]
+  },
+  {
+   "pid": 9614,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickLoad",
+    "Q.LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 9624,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 9630,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 9631,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 9634,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.Continue",
+    "CONTINUE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CONTINUE"
+   ]
+  },
+  {
+   "pid": 9655,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Tips",
+    "TIPS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TIPS"
+   ]
+  },
+  {
+   "pid": 9672,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 9696,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 9697,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 9702,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 9717,
+   "size": 640,
+   "strs": [
+    "1",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "SetActive",
+    "UnityEngine.Object, UnityEngine",
+    "SetActive",
+    "UnityEngine.Object, UnityEngine",
+    "SetActive",
+    "UnityEngine.Object, UnityEngine",
+    "SetActive",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "1",
+    "SetActive",
+    "SetActive",
+    "SetActive",
+    "SetActive"
+   ]
+  },
+  {
+   "pid": 9728,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 9740,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.FontSize",
+    "Font size:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Font size:"
+   ]
+  },
+  {
+   "pid": 9775,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 9776,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 9790,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Return",
+    "RETURN",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "RETURN"
+   ]
+  },
+  {
+   "pid": 9791,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Tips",
+    "TIPS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TIPS"
+   ]
+  },
+  {
+   "pid": 9792,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Tips",
+    "TIPS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TIPS"
+   ]
+  },
+  {
+   "pid": 9797,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 9798,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 9799,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 9800,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 9814,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9832,
+   "size": 204,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.MessageSpeed",
+    "Message speed:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Message speed:"
+   ]
+  },
+  {
+   "pid": 9859,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 9872,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9873,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9876,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.CGGallery",
+    "ENDINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "ENDINGS"
+   ]
+  },
+  {
+   "pid": 9878,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9879,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 9880,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 9890,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Title",
+    "TITLE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TITLE"
+   ]
+  },
+  {
+   "pid": 9923,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickLoad",
+    "Q.LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 9924,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickLoad",
+    "Q.LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 9929,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Return",
+    "RETURN",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "RETURN"
+   ]
+  },
+  {
+   "pid": 9941,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Graphics",
+    "Graphics:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Graphics:"
+   ]
+  },
+  {
+   "pid": 9951,
+   "size": 320,
+   "strs": [
+    "M",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "M"
+   ]
+  },
+  {
+   "pid": 9960,
+   "size": 572,
+   "strs": [
+    "g",
+    "Tips",
+    "Tips",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "g",
+    "Tips",
+    "Tips"
+   ]
+  },
+  {
+   "pid": 9961,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Tab.Text",
+    "TEXT",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TEXT"
+   ]
+  },
+  {
+   "pid": 9983,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Return",
+    "RETURN",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "RETURN"
+   ]
+  },
+  {
+   "pid": 9992,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.OST",
+    "BUY SOUNDTRACK",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "BUY SOUNDTRACK"
+   ]
+  },
+  {
+   "pid": 9999,
+   "size": 204,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.VolumeEffects",
+    "Effects volume:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Effects volume:"
+   ]
+  },
+  {
+   "pid": 10013,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10014,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10016,
+   "size": 204,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.VolumeMaster",
+    "Master volume:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Master volume:"
+   ]
+  },
+  {
+   "pid": 10025,
+   "size": 200,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.VolumeMusic",
+    "Music volume:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Music volume:"
+   ]
+  },
+  {
+   "pid": 10032,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Title",
+    "TITLE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TITLE"
+   ]
+  },
+  {
+   "pid": 10033,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Title",
+    "TITLE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TITLE"
+   ]
+  },
+  {
+   "pid": 10035,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10137,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Settings",
+    "SETTINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SETTINGS"
+   ]
+  },
+  {
+   "pid": 10154,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Preview",
+    "Preview",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Preview"
+   ]
+  },
+  {
+   "pid": 10158,
+   "size": 204,
+   "strs": [
+    "DefaultUI",
+    "ExternalScriptsBrowser.Title",
+    "EXTERNAL SCRIPTS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "EXTERNAL SCRIPTS"
+   ]
+  },
+  {
+   "pid": 10161,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickLoad",
+    "Q.LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 10168,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickSave",
+    "Q.SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 10169,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickSave",
+    "Q.SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 10194,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Close",
+    "CLOSE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CLOSE"
+   ]
+  },
+  {
+   "pid": 10204,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10205,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10206,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10207,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10213,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10225,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10226,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10251,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Tips",
+    "TIPS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TIPS"
+   ]
+  },
+  {
+   "pid": 10262,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.CreditsTitle",
+    "CREDITS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CREDITS"
+   ]
+  },
+  {
+   "pid": 10264,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10265,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10266,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10267,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10268,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 10282,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Tab.Basic",
+    "BASIC",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "BASIC"
+   ]
+  },
+  {
+   "pid": 10287,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 10301,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "SaveLoadMenu.Tab.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 10302,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Font",
+    "Font:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Font:"
+   ]
+  },
+  {
+   "pid": 10313,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Return",
+    "RETURN",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "RETURN"
+   ]
+  },
+  {
+   "pid": 10314,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "VariableInput.Submit",
+    "SUBMIT",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SUBMIT"
+   ]
+  },
+  {
+   "pid": 10326,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10351,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.NewGame",
+    "CROW FACTORY",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CROW FACTORY"
+   ]
+  },
+  {
+   "pid": 10353,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10358,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Close",
+    "CLOSE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CLOSE"
+   ]
+  },
+  {
+   "pid": 10368,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "Confirmation.Yes",
+    "YES",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "YES"
+   ]
+  },
+  {
+   "pid": 10374,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10375,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10385,
+   "size": 212,
+   "strs": [
+    "Text_Month",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "{Text_Month}"
+   ],
+   "labels": [
+    "Text_Month",
+    "{Text_Month}"
+   ]
+  },
+  {
+   "pid": 10396,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10397,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10420,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Close",
+    "CLOSE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CLOSE"
+   ]
+  },
+  {
+   "pid": 10428,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10447,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.NewGame",
+    "NEW GAME",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "NEW GAME"
+   ]
+  },
+  {
+   "pid": 10454,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Title",
+    "TITLE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TITLE"
+   ]
+  },
+  {
+   "pid": 10460,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10461,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10477,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Settings",
+    "SETTINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SETTINGS"
+   ]
+  },
+  {
+   "pid": 10478,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Settings",
+    "SETTINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SETTINGS"
+   ]
+  },
+  {
+   "pid": 10491,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10513,
+   "size": 212,
+   "strs": [
+    "DefaultUI",
+    "ExternalScriptsBrowser.Info",
+    "Select a script to play",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Select a script to play"
+   ]
+  },
+  {
+   "pid": 10520,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10521,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10522,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.CGGallery",
+    "GALLERY",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "GALLERY"
+   ]
+  },
+  {
+   "pid": 10537,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.ScreenMode",
+    "Screen mode:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Screen mode:"
+   ]
+  },
+  {
+   "pid": 10592,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickLoad",
+    "Q.LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 10593,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickLoad",
+    "Q.LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 10594,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickSave",
+    "Q.SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 10596,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10599,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.Exit",
+    "CLOSE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CLOSE"
+   ]
+  },
+  {
+   "pid": 10618,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Language",
+    "Language:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Language:"
+   ]
+  },
+  {
+   "pid": 10625,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10626,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10636,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10637,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10640,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickSave",
+    "QUICK SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "QUICK SAVE"
+   ]
+  },
+  {
+   "pid": 10641,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "CGGallery.Title",
+    "CG GALLERY",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CG GALLERY"
+   ]
+  },
+  {
+   "pid": 10642,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10643,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10644,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10645,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10648,
+   "size": 220,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10676,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "Confirmation.No",
+    "NO",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "NO"
+   ]
+  },
+  {
+   "pid": 10692,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.SkipMode",
+    "Skip mode:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Skip mode:"
+   ]
+  },
+  {
+   "pid": 10696,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 10712,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 10713,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 10720,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 10721,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 10724,
+   "size": 232,
+   "strs": [
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 10739,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Tips",
+    "TIPS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TIPS"
+   ]
+  },
+  {
+   "pid": 10740,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Tips",
+    "TIPS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TIPS"
+   ]
+  },
+  {
+   "pid": 10747,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10755,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 10756,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 10764,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Tab.Sound",
+    "SOUND",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SOUND"
+   ]
+  },
+  {
+   "pid": 10776,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 10779,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.Settings",
+    "SETTINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SETTINGS"
+   ]
+  },
+  {
+   "pid": 10782,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Resolution",
+    "Resolution:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Resolution:"
+   ]
+  },
+  {
+   "pid": 10830,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 10840,
+   "size": 208,
+   "strs": [
+    "Text_Day",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "{Text_Month}"
+   ],
+   "labels": [
+    "Text_Day",
+    "{Text_Month}"
+   ]
+  },
+  {
+   "pid": 10848,
+   "size": 180,
+   "strs": [
+    "m",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "m"
+   ]
+  },
+  {
+   "pid": 10865,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10866,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10867,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10868,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 10935,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "SaveLoadMenu.Tab.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 10936,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "General.Return",
+    "RETURN",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "RETURN"
+   ]
+  },
+  {
+   "pid": 10939,
+   "size": 264,
+   "strs": [
+    "H",
+    "Rollback",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "H",
+    "Rollback"
+   ]
+  },
+  {
+   "pid": 10945,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 10946,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 10951,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 10962,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.Exit",
+    "EXIT",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "EXIT"
+   ]
+  },
+  {
+   "pid": 10984,
+   "size": 192,
+   "strs": [
+    "day",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "day"
+   ]
+  },
+  {
+   "pid": 10998,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Menu",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 11065,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "TitleMenu.Credits",
+    "CREDITS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "CREDITS"
+   ]
+  },
+  {
+   "pid": 11066,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Settings",
+    "SETTINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SETTINGS"
+   ]
+  },
+  {
+   "pid": 11067,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Settings",
+    "SETTINGS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SETTINGS"
+   ]
+  },
+  {
+   "pid": 11072,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Settings",
+    "OPTIONS",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "OPTIONS"
+   ]
+  },
+  {
+   "pid": 11076,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickSave",
+    "Q.SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 11079,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Menu",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 11080,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Menu",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 11081,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 11082,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Menu",
+    "MENU",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "MENU"
+   ]
+  },
+  {
+   "pid": 11093,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.AutoDelay",
+    "Auto delay:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Auto delay:"
+   ]
+  },
+  {
+   "pid": 11109,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11123,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11124,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11125,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Load",
+    "LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOAD"
+   ]
+  },
+  {
+   "pid": 11147,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11148,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11168,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Graphics",
+    "Graphics:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Graphics:"
+   ]
+  },
+  {
+   "pid": 11174,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11179,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 11180,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 11201,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Save",
+    "SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SAVE"
+   ]
+  },
+  {
+   "pid": 11206,
+   "size": 204,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.VoiceLanguage",
+    "Voice language:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Voice language:"
+   ]
+  },
+  {
+   "pid": 11212,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11213,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11219,
+   "size": 292,
+   "strs": [
+    "I",
+    "{N}. {T}",
+    "???",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "set_fontStyle",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "I",
+    "{N}. {T}",
+    "???",
+    "set_fontStyle"
+   ]
+  },
+  {
+   "pid": 11222,
+   "size": 200,
+   "strs": [
+    "DefaultUI",
+    "SaveLoadMenu.Tab.QuickLoad",
+    "QUICK LOAD",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "QUICK LOAD"
+   ]
+  },
+  {
+   "pid": 11247,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Auto",
+    "AUTO",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "AUTO"
+   ]
+  },
+  {
+   "pid": 11280,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11281,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11287,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Graphics",
+    "Graphics:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Graphics:"
+   ]
+  },
+  {
+   "pid": 11303,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11304,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11322,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Hide",
+    "HIDE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "HIDE"
+   ]
+  },
+  {
+   "pid": 11340,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  },
+  {
+   "pid": 11347,
+   "size": 212,
+   "strs": [
+    "Text_Time",
+    "UnityEngine.UI.Text, UnityEngine.UI",
+    "set_text",
+    "UnityEngine.Object, UnityEngine",
+    "{Text_Month}"
+   ],
+   "labels": [
+    "Text_Time",
+    "{Text_Month}"
+   ]
+  },
+  {
+   "pid": 11348,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickSave",
+    "Q.SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 11349,
+   "size": 192,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.QuickSave",
+    "Q.SAVE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": []
+  },
+  {
+   "pid": 11524,
+   "size": 196,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.Graphics",
+    "Graphics:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Graphics:"
+   ]
+  },
+  {
+   "pid": 11528,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Title",
+    "TITLE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TITLE"
+   ]
+  },
+  {
+   "pid": 11529,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Title",
+    "TITLE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TITLE"
+   ]
+  },
+  {
+   "pid": 11534,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11542,
+   "size": 200,
+   "strs": [
+    "DefaultUI",
+    "SettingsMenu.VolumeVoice",
+    "Voice volume:",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "Voice volume:"
+   ]
+  },
+  {
+   "pid": 11543,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Title",
+    "TITLE",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "TITLE"
+   ]
+  },
+  {
+   "pid": 11545,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11546,
+   "size": 184,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Skip",
+    "SKIP",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "SKIP"
+   ]
+  },
+  {
+   "pid": 11570,
+   "size": 188,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Return",
+    "RETURN",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "RETURN"
+   ]
+  },
+  {
+   "pid": 11575,
+   "size": 180,
+   "strs": [
+    "DefaultUI",
+    "ControlPanel.Log",
+    "LOG",
+    "set_text",
+    "UnityEngine.Object, UnityEngine"
+   ],
+   "labels": [
+    "LOG"
+   ]
+  }
+ ],
+ "labels": {
+  "HIDE": [
+   9209,
+   9595,
+   9596,
+   9814,
+   9872,
+   9873,
+   9878,
+   9879,
+   10264,
+   10265,
+   10266,
+   10267,
+   10491,
+   10625,
+   10626,
+   10636,
+   10637,
+   10747,
+   10776,
+   11322
+  ],
+  "{": [
+   9404
+  ],
+  "yyyy-MM-dd HH:mm": [
+   9404
+  ],
+  "File {N} - {D}": [
+   9404
+  ],
+  "O": [
+   9576
+  ],
+  "MENU": [
+   9597,
+   9696,
+   9697,
+   9728,
+   10696,
+   10720,
+   10721,
+   10945,
+   10946,
+   10998,
+   11079,
+   11080,
+   11081,
+   11082
+  ],
+  "SETTINGS": [
+   9602,
+   10137,
+   10477,
+   10478,
+   10779,
+   11066,
+   11067
+  ],
+  "AUTO": [
+   9624,
+   9630,
+   9631,
+   9797,
+   9798,
+   9880,
+   10204,
+   10205,
+   10206,
+   10207,
+   10374,
+   10375,
+   10520,
+   10521,
+   10596,
+   10648,
+   10830,
+   11179,
+   11180,
+   11247
+  ],
+  "CONTINUE": [
+   9634
+  ],
+  "TIPS": [
+   9655,
+   9791,
+   9792,
+   10251,
+   10739,
+   10740
+  ],
+  "SAVE": [
+   9672,
+   9775,
+   9776,
+   10268,
+   10755,
+   10756,
+   10935,
+   11201
+  ],
+  "LOAD": [
+   9702,
+   9799,
+   9800,
+   10287,
+   10301,
+   10712,
+   10713,
+   11125
+  ],
+  "1": [
+   9717
+  ],
+  "SetActive": [
+   9717,
+   9717,
+   9717,
+   9717
+  ],
+  "Font size:": [
+   9740
+  ],
+  "RETURN": [
+   9790,
+   9929,
+   9983,
+   10313,
+   10936,
+   11570
+  ],
+  "Message speed:": [
+   9832
+  ],
+  "SKIP": [
+   9859,
+   10225,
+   10226,
+   10326,
+   10353,
+   10428,
+   10460,
+   10461,
+   10865,
+   10866,
+   10867,
+   10868,
+   11174,
+   11212,
+   11213,
+   11303,
+   11304,
+   11534,
+   11545,
+   11546
+  ],
+  "ENDINGS": [
+   9876
+  ],
+  "TITLE": [
+   9890,
+   10032,
+   10033,
+   10454,
+   11528,
+   11529,
+   11543
+  ],
+  "Graphics:": [
+   9941,
+   11168,
+   11287,
+   11524
+  ],
+  "M": [
+   9951
+  ],
+  "g": [
+   9960
+  ],
+  "Tips": [
+   9960,
+   9960
+  ],
+  "TEXT": [
+   9961
+  ],
+  "BUY SOUNDTRACK": [
+   9992
+  ],
+  "Effects volume:": [
+   9999
+  ],
+  "LOG": [
+   10013,
+   10014,
+   10035,
+   10213,
+   10396,
+   10397,
+   10642,
+   10643,
+   10644,
+   10645,
+   10951,
+   11109,
+   11123,
+   11124,
+   11147,
+   11148,
+   11280,
+   11281,
+   11340,
+   11575
+  ],
+  "Master volume:": [
+   10016
+  ],
+  "Music volume:": [
+   10025
+  ],
+  "Preview": [
+   10154
+  ],
+  "EXTERNAL SCRIPTS": [
+   10158
+  ],
+  "CLOSE": [
+   10194,
+   10358,
+   10420,
+   10599
+  ],
+  "CREDITS": [
+   10262,
+   11065
+  ],
+  "BASIC": [
+   10282
+  ],
+  "Font:": [
+   10302
+  ],
+  "SUBMIT": [
+   10314
+  ],
+  "CROW FACTORY": [
+   10351
+  ],
+  "YES": [
+   10368
+  ],
+  "Text_Month": [
+   10385
+  ],
+  "{Text_Month}": [
+   10385,
+   10840,
+   11347
+  ],
+  "NEW GAME": [
+   10447
+  ],
+  "Select a script to play": [
+   10513
+  ],
+  "GALLERY": [
+   10522
+  ],
+  "Screen mode:": [
+   10537
+  ],
+  "Language:": [
+   10618
+  ],
+  "QUICK SAVE": [
+   10640
+  ],
+  "CG GALLERY": [
+   10641
+  ],
+  "NO": [
+   10676
+  ],
+  "Skip mode:": [
+   10692
+  ],
+  "SOUND": [
+   10764
+  ],
+  "Resolution:": [
+   10782
+  ],
+  "Text_Day": [
+   10840
+  ],
+  "m": [
+   10848
+  ],
+  "H": [
+   10939
+  ],
+  "Rollback": [
+   10939
+  ],
+  "EXIT": [
+   10962
+  ],
+  "day": [
+   10984
+  ],
+  "OPTIONS": [
+   11072
+  ],
+  "Auto delay:": [
+   11093
+  ],
+  "Voice language:": [
+   11206
+  ],
+  "I": [
+   11219
+  ],
+  "{N}. {T}": [
+   11219
+  ],
+  "???": [
+   11219
+  ],
+  "set_fontStyle": [
+   11219
+  ],
+  "QUICK LOAD": [
+   11222
+  ],
+  "Text_Time": [
+   11347
+  ],
+  "Voice volume:": [
+   11542
+  ]
+ }
+}

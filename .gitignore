@@ -1,0 +1,42 @@
+# ===== 第三方游戏专有二进制文件：严禁上传/分发 =====
+*.assets
+*.resS
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# ===== 构建 / 测试产物（含游戏二进制副本，体积巨大） =====
+build_demo/
+build_progress/
+build_textonly/
+test_font/
+test_patch/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# ===== 可重新生成的大型中间产物（非汉化包核心内容） =====
+gap_*.json
+extracted_text.json
+words_*.json
+unique_texts.txt
+text_slots.json
+gen_text_v2.json
+act00b_strings.json
+occurrences_v1_backup.json
+translations_full.json
+todo_list.json
+need_translate.json
+missing_locations*.json
+new_strings_review.txt
+
+# ===== 操作系统 / 编辑器杂项 =====
+.DS_Store
+Thumbs.db
+*.swp
