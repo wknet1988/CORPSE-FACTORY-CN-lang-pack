@@ -15,16 +15,19 @@ CORPSE FACTORY（《尸体工厂》）的**非官方**简体中文汉化工程�
 
 ## 开箱即用（推荐：下载即玩，无需编译）
 
-如果你只是想玩中文版、不会用 Python，直接去 **Releases** 下载 `CORPSE-FACTORY-CN-patch-v1.0.0.zip`：
+如果你只是想玩中文版、不会用 Python，直接去 **Releases** 下载 `CORPSE-FACTORY-CN-patch-v1.0.0.7z`
+（7z 格式，请用 **7-Zip / WinRAR / Windows 11 资源管理器** 解压）：
 
-1. 在 Steam 库里右键 **CORPSE FACTORY** → 属性 → 本地文件 → 浏览，打开游戏安装目录
-   （即包含 `CORPSE FACTORY_Data` 文件夹的那个目录）。
-2. 把压缩包里的全部内容**解压到该游戏根目录**（与 `CORPSE FACTORY_Data` 同级）。
-3. 双击运行 **`install.bat`**，它会自动备份原文件并复制汉化文件。
-4. 启动游戏，享受中文。
+- **方式一（推荐，带自动备份）**：把压缩包解压到任意文件夹，进入后双击 **`install.bat`**，
+  它会自动定位游戏目录、备份原文件并覆盖汉化文件。
+- **方式二（直接覆盖）**：打开游戏根目录（含 `CORPSE FACTORY_Data` 的文件夹），
+  把压缩包里的 `CORPSE FACTORY_Data` 文件夹直接解压覆盖进去（提示覆盖时选“全部覆盖”）。
+
+启动游戏即可体验中文。
 
 > 还原方法：把 `CORPSE FACTORY_Data\resources.assets.bak` 和
-> `CORPSE FACTORY_Data\Managed\Elringus.Naninovel.Runtime.dll.bak` 去掉 `.bak` 后缀覆盖回去即可。
+> `CORPSE FACTORY_Data\Managed\Elringus.Naninovel.Runtime.dll.bak` 去掉 `.bak` 后缀覆盖回去即可；
+> 若用方式二且未备份，可在 Steam 对该游戏「验证游戏文件的完整性」恢复。
 > 引擎确认框的按钮（Cancel / Delete / Continue）仍为英文——它们是输入动作标识符，改中文会导致按钮失效，故保留英文。
 
 补丁压缩包内含 `source/` 目录（本工程的全部源码与翻译表），仅供有兴趣的玩家自行重建或核对，普通玩家无需使用。
