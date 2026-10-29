@@ -36,6 +36,9 @@ need_translate.json
 missing_locations*.json
 new_strings_review.txt
 
+# ===== Release 打包产物（含游戏衍生二进制，体积大，不入库） =====
+release/
+
 # ===== 操作系统 / 编辑器杂项 =====
 .DS_Store
 Thumbs.db

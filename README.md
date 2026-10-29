@@ -2,14 +2,32 @@
 
 CORPSE FACTORY（《尸体工厂》）的**非官方**简体中文汉化工程源码。
 
-本仓库包含：英文 → 简体中文的**翻译对照表**、**文本提取 / 注入脚本**、**子集化中文字体**以及工程文档。
-**不包含也不分发**游戏本体或任何第三方专有二进制文件（`resources.assets`、`*.resS`、`Elringus.Naninovel.Runtime.dll`、可执行文件等）。
+本仓库（源码）包含：英文 → 简体中文的**翻译对照表**、**文本提取 / 注入脚本**、**子集化中文字体**以及工程文档。
+**仓库本身不包含**游戏本体或任何第三方专有二进制文件。但本工程在 **Releases** 中提供**已打好的汉化补丁**（由作者自有正版副本生成的衍生文件：`resources.assets` 已注入中文并内嵌字体、`Elringus.Naninovel.Runtime.dll` 已汉化确认提示），供普通玩家直接下载使用。
 
 > ⚠️ **版权与免责声明**
 > - 本汉化为粉丝个人作品，**与游戏原作者 / 发行商无任何关联**，不代表其立场。
 > - 使用本工程前，你必须**合法拥有** CORPSE FACTORY 的 PC 版（Unity 2020.3.22f1 + Naninovel 引擎）。
 > - 本仓库仅提供「在你的**自己**游戏副本上重新生成汉化补丁」所需的翻译数据与工具。
-> - **请勿**将游戏原始二进制文件（`resources.assets` / `*.resS` / `*.dll` / 可执行文件）上传或转发给他人；请只分享本仓库（翻译 + 工具）。
+> - **请勿**将游戏原始二进制文件（`resources.assets` / `*.resS` / `*.dll` / 可执行文件）上传或转发给他人；请只分享本仓库（翻译 + 工具）或本工程的 Release 补丁。
+
+---
+
+## 开箱即用（推荐：下载即玩，无需编译）
+
+如果你只是想玩中文版、不会用 Python，直接去 **Releases** 下载 `CORPSE-FACTORY-CN-patch-v1.0.0.zip`：
+
+1. 在 Steam 库里右键 **CORPSE FACTORY** → 属性 → 本地文件 → 浏览，打开游戏安装目录
+   （即包含 `CORPSE FACTORY_Data` 文件夹的那个目录）。
+2. 把压缩包里的全部内容**解压到该游戏根目录**（与 `CORPSE FACTORY_Data` 同级）。
+3. 双击运行 **`install.bat`**，它会自动备份原文件并复制汉化文件。
+4. 启动游戏，享受中文。
+
+> 还原方法：把 `CORPSE FACTORY_Data\resources.assets.bak` 和
+> `CORPSE FACTORY_Data\Managed\Elringus.Naninovel.Runtime.dll.bak` 去掉 `.bak` 后缀覆盖回去即可。
+> 引擎确认框的按钮（Cancel / Delete / Continue）仍为英文——它们是输入动作标识符，改中文会导致按钮失效，故保留英文。
+
+补丁压缩包内含 `source/` 目录（本工程的全部源码与翻译表），仅供有兴趣的玩家自行重建或核对，普通玩家无需使用。
 
 ---
 
